@@ -125,6 +125,7 @@
  .home-img {
    order: 3;
    padding-bottom: 150px;
+   padding-top: 30px;
  }
 
  .home-img img {
