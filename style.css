@@ -124,13 +124,14 @@
  }
 
  .home-img {
-   order: 300;
-   padding-bottom: 100px;
+   order: 3;
+   padding-bottom: 150px;
    
  }
 
  .home-img img {
    width: 100%;
+   size: 80%
    
   
  }
