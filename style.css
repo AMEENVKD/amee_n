@@ -120,12 +120,13 @@
    grid-template-columns: 0.2fr 1fr 1fr;
    align-items: center;
    gap: 1rem;
+   padding-top: 100px;
  }
 
  .home-img {
    order: 3;
    padding-bottom: 150px;
-   padding-top: 30px;
+   
  }
 
  .home-img img {
