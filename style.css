@@ -503,6 +503,11 @@
      order: initial;
    }
 
+   .home-img img {
+
+    width: 100%;
+   }
+
    .about-container {
      grid-template-columns: 1fr;
    }
@@ -561,8 +566,6 @@
    .contact-button {
      margin-left: 25%;
    }
-   .img {
-    padding-top: 9px;
-   }
+   
  }
  
